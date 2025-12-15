@@ -1,0 +1,62 @@
+{
+  "clients": [{
+    "id": 105,
+    "company": "BBVA",
+    "contact": "Sara Torres",
+    "email": "sara.bbva@gmail.com",
+    "phoneNumbers": "+51 978787676",
+    "type": "Empresa",
+    "status":"ACTIVE" ,
+    "totalPurchase": 10030
+  },
+    {
+      "id": 106,
+      "company": "Universidad Nacional",
+      "contact": "Carlos Manrique",
+      "email": "carlos_uni@universidad.edu.pe",
+      "phoneNumbers": "+51 987678767",
+      "type": "Educación",
+      "status":"ACTIVE" ,
+      "totalPurchase": 23454
+    },
+    {
+      "id": 107,
+      "company": "Empresa ABC S.A.",
+      "contact": "Roberto Zapata",
+      "email": "roberto@empresaabc.com",
+      "phoneNumbers": "+51 968978654",
+      "type": "Empresa",
+      "status":"ACTIVE" ,
+      "totalPurchase": 65456
+    },
+    {
+      "id": 108,
+      "company": "Secretaría de Educación",
+      "contact": "Carmen Calixto",
+      "email": "carmen@educacion.gob.mx",
+      "phoneNumbers": "+51 9896565456",
+      "type": "Gobierno",
+      "status":"ACTIVE" ,
+      "totalPurchase": 37676
+    },{
+      "id": 109,
+      "company": "Instituto Tecnológico",
+      "contact": "Alejandra Vega",
+      "email": "alejandra@grupomno.com",
+      "phoneNumbers": "+51 988767656",
+      "type": "Educación",
+      "status":"ACTIVE" ,
+      "totalPurchase": 45654
+    },{
+      "id": 110,
+      "company": "Corporación XYZ",
+      "contact": "Andrea Morales",
+      "email": "andreamorales@gmail.com",
+      "phoneNumbers": "+51 9989878767",
+      "type": "Empresa",
+      "status":"ACTIVE" ,
+      "totalPurchase": 6543
+    }
+
+  ]
+}

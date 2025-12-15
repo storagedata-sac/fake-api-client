@@ -5,7 +5,7 @@
     "contact": "Sara Torres",
     "email": "sara.bbva@gmail.com",
     "phoneNumbers": "+51 978787676",
-    "type": "Empresa",
+    "type": "EMPRESA",
     "status":"ACTIVE" ,
     "totalPurchase": 10030
   },
@@ -15,7 +15,7 @@
       "contact": "Carlos Manrique",
       "email": "carlos_uni@universidad.edu.pe",
       "phoneNumbers": "+51 987678767",
-      "type": "Educación",
+      "type": "EDUCACION",
       "status":"ACTIVE" ,
       "totalPurchase": 23454
     },
@@ -25,7 +25,7 @@
       "contact": "Roberto Zapata",
       "email": "roberto@empresaabc.com",
       "phoneNumbers": "+51 968978654",
-      "type": "Empresa",
+      "type": "EMPRESA",
       "status":"ACTIVE" ,
       "totalPurchase": 65456
     },
@@ -35,7 +35,7 @@
       "contact": "Carmen Calixto",
       "email": "carmen@educacion.gob.mx",
       "phoneNumbers": "+51 9896565456",
-      "type": "Gobierno",
+      "type": "GOBIERNO",
       "status":"ACTIVE" ,
       "totalPurchase": 37676
     },{
@@ -44,7 +44,7 @@
       "contact": "Alejandra Vega",
       "email": "alejandra@grupomno.com",
       "phoneNumbers": "+51 988767656",
-      "type": "Educación",
+      "type": "EDUCACION",
       "status":"ACTIVE" ,
       "totalPurchase": 45654
     },{
@@ -53,7 +53,7 @@
       "contact": "Andrea Morales",
       "email": "andreamorales@gmail.com",
       "phoneNumbers": "+51 9989878767",
-      "type": "Empresa",
+      "type": "EMPRESA",
       "status":"ACTIVE" ,
       "totalPurchase": 6543
     }

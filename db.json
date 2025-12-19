@@ -1,62 +1,210 @@
-{
-  "clients": [{
-    "id": 105,
-    "company": "BBVA",
-    "contact": "Sara Torres",
-    "email": "sara.bbva@gmail.com",
-    "phoneNumbers": "+51 978787676",
-    "type": "EMPRESA",
-    "status":"ACTIVE" ,
-    "totalPurchase": 10030
+[
+  {
+    "id": 1,
+    "companyName": "Tecnología Andina S.A.C.",
+    "ruc": "20601234561",
+    "clientType": "EMPRESA",
+    "department": "Lima",
+    "province": "Lima",
+    "district": "San Isidro",
+    "address": "Av. Javier Prado Este 4200",
+    "contactClients": [
+      {
+        "firstName": "María",
+        "lastName": "Rojas",
+        "jobTitle": "Gerente de Compras",
+        "department": "Abastecimiento",
+        "email": "mrojas@tecnologiaandina.com",
+        "phoneNumber": "+51 987 654 321"
+      }
+    ]
   },
-    {
-      "id": 106,
-      "company": "Universidad Nacional",
-      "contact": "Carlos Manrique",
-      "email": "carlos_uni@universidad.edu.pe",
-      "phoneNumbers": "+51 987678767",
-      "type": "EDUCACION",
-      "status":"ACTIVE" ,
-      "totalPurchase": 23454
-    },
-    {
-      "id": 107,
-      "company": "Empresa ABC S.A.",
-      "contact": "Roberto Zapata",
-      "email": "roberto@empresaabc.com",
-      "phoneNumbers": "+51 968978654",
-      "type": "EMPRESA",
-      "status":"ACTIVE" ,
-      "totalPurchase": 65456
-    },
-    {
-      "id": 108,
-      "company": "Secretaría de Educación",
-      "contact": "Carmen Calixto",
-      "email": "carmen@educacion.gob.mx",
-      "phoneNumbers": "+51 989656545",
-      "type": "GOBIERNO",
-      "status":"ACTIVE" ,
-      "totalPurchase": 37676
-    },{
-      "id": 109,
-      "company": "Instituto Tecnológico",
-      "contact": "Alejandra Vega",
-      "email": "alejandra@grupomno.com",
-      "phoneNumbers": "+51 987676569",
-      "type": "EDUCACION",
-      "status":"ACTIVE" ,
-      "totalPurchase": 45654
-    },{
-      "id": 110,
-      "company": "Corporación XYZ",
-      "contact": "Andrea Morales",
-      "email": "andreamorales@gmail.com",
-      "phoneNumbers": "+51 998988767",
-      "type": "EMPRESA",
-      "status":"ACTIVE" ,
-      "totalPurchase": 6543
-    }
-
-  ]
-}
+  {
+    "id": 2,
+    "companyName": "Ministerio de Salud - Oficina Lima",
+    "ruc": "20131312955",
+    "clientType": "GOBIERNO",
+    "department": "Lima",
+    "province": "Lima",
+    "district": "Jesús María",
+    "address": "Av. Salaverry 801",
+    "contactClients": [
+      {
+        "firstName": "Carlos",
+        "lastName": "Vargas",
+        "jobTitle": "Analista de Logística",
+        "department": "Logística",
+        "email": "cvargas@minsa.gob.pe",
+        "phoneNumber": "+51 955 112 334"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "companyName": "Universidad Metropolitana del Perú",
+    "ruc": "20509876543",
+    "clientType": "EDUCACION",
+    "department": "Lima",
+    "province": "Lima",
+    "district": "Santiago de Surco",
+    "address": "Jr. Los Álamos 155",
+    "contactClients": [
+      {
+        "firstName": "Lucía",
+        "lastName": "Paredes",
+        "jobTitle": "Coordinadora Administrativa",
+        "department": "Administración",
+        "email": "lparedes@ump.edu.pe",
+        "phoneNumber": "+51 999 101 202"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "companyName": "Juan Pérez",
+    "ruc": "10456789012",
+    "clientType": "PARTICULAR",
+    "department": "Lima",
+    "province": "Lima",
+    "district": "Los Olivos",
+    "address": "Calle Las Gardenias 230",
+    "contactClients": [
+      {
+        "firstName": "Juan",
+        "lastName": "Pérez",
+        "jobTitle": "Propietario",
+        "department": "Personal",
+        "email": "juan.perez@gmail.com",
+        "phoneNumber": "+51 901 222 333"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "companyName": "Importaciones Pacífico S.R.L.",
+    "ruc": "20604567890",
+    "clientType": "EMPRESA",
+    "department": "Callao",
+    "province": "Callao",
+    "district": "Bellavista",
+    "address": "Av. Colonial 2500",
+    "contactClients": [
+      {
+        "firstName": "Diego",
+        "lastName": "Salazar",
+        "jobTitle": "Jefe de Operaciones",
+        "department": "Operaciones",
+        "email": "dsalazar@impacifico.pe",
+        "phoneNumber": "+51 980 445 566"
+      },
+      {
+        "firstName": "Andrea",
+        "lastName": "Mendoza",
+        "jobTitle": "Asistente Comercial",
+        "department": "Comercial",
+        "email": "amendoza@impacifico.pe",
+        "phoneNumber": "+51 981 777 888"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "companyName": "Municipalidad Distrital de Miraflores",
+    "ruc": "20100123456",
+    "clientType": "GOBIERNO",
+    "department": "Lima",
+    "province": "Lima",
+    "district": "Miraflores",
+    "address": "Av. Larco 400",
+    "contactClients": [
+      {
+        "firstName": "Rocío",
+        "lastName": "Quispe",
+        "jobTitle": "Especialista de Contrataciones",
+        "department": "Abastecimiento",
+        "email": "rquispe@miraflores.gob.pe",
+        "phoneNumber": "+51 944 300 221"
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "companyName": "Colegio San Martín de Porres",
+    "ruc": "20511223344",
+    "clientType": "EDUCACION",
+    "department": "La Libertad",
+    "province": "Trujillo",
+    "district": "Víctor Larco Herrera",
+    "address": "Av. América Sur 980",
+    "contactClients": [
+      {
+        "firstName": "Fernando",
+        "lastName": "Guzmán",
+        "jobTitle": "Administrador",
+        "department": "Administración",
+        "email": "fguzman@colegiosmp.edu.pe",
+        "phoneNumber": "+51 970 600 700"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "companyName": "María Fernanda López",
+    "ruc": "10765432109",
+    "clientType": "PARTICULAR",
+    "department": "Arequipa",
+    "province": "Arequipa",
+    "district": "Cayma",
+    "address": "Urb. La Arboleda Mz C Lt 12",
+    "contactClients": [
+      {
+        "firstName": "María Fernanda",
+        "lastName": "López",
+        "jobTitle": "Cliente",
+        "department": "Personal",
+        "email": "mflopez@hotmail.com",
+        "phoneNumber": "+51 962 110 909"
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "companyName": "Servicios Médicos Integrales S.A.C.",
+    "ruc": "20607890123",
+    "clientType": "EMPRESA",
+    "department": "Lima",
+    "province": "Lima",
+    "district": "La Molina",
+    "address": "Av. La Fontana 1200",
+    "contactClients": [
+      {
+        "firstName": "Patricia",
+        "lastName": "Navarro",
+        "jobTitle": "Jefa de Administración",
+        "department": "Administración",
+        "email": "pnavarro@smi.com.pe",
+        "phoneNumber": "+51 997 123 456"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "companyName": "Gobierno Regional de Cusco",
+    "ruc": "20450011223",
+    "clientType": "GOBIERNO",
+    "department": "Cusco",
+    "province": "Cusco",
+    "district": "Wanchaq",
+    "address": "Av. Tomasa Ttito Condemayta 120",
+    "contactClients": [
+      {
+        "firstName": "Edgar",
+        "lastName": "Huamán",
+        "jobTitle": "Coordinador de Logística",
+        "department": "Logística",
+        "email": "ehuaman@gorecusco.gob.pe",
+        "phoneNumber": "+51 984 555 101"
+      }
+    ]
+  }
+]

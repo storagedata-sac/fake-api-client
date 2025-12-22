@@ -1,248 +1,76 @@
 {
   "clients": [
-    [
-      {
-        "id": 1,
-        "companyName": "Inversiones Andinas S.A.C.",
-        "ruc": "20123456781",
-        "clientType": "PRINCIPAL",
-        "location": {
-          "department": "Lima",
-          "province": "Lima",
-          "district": "San Isidro",
-          "address": "Av. Javier Prado Este 1234"
-        },
-        "additionalNotes": "Prefiere facturación electrónica.\nAtención de lunes a viernes.",
-        "contactClients": [
-          {
-            "id": 101,
-            "firstName": "María",
-            "lastName": "Quispe",
-            "jobTitle": "Jefa de Compras",
-            "department": "Abastecimiento",
-            "email": "maria.quispe@andinassac.pe",
-            "phoneNumber": "987654321"
-          }
-        ]
+    {
+      "id": 1,
+      "companyName": "Inversiones Andinas S.A.C.",
+      "ruc": "20123456781",
+      "clientType": "PRINCIPAL",
+      "location": {
+        "department": "Lima",
+        "province": "Lima",
+        "district": "San Isidro",
+        "address": "Av. Javier Prado Este 1234"
       },
-      {
-        "id": 2,
-        "companyName": "Soluciones Pacífico EIRL",
-        "ruc": "20123456782",
-        "clientType": "SECONDARY",
-        "location": {
-          "department": "Lima",
-          "province": "Lima",
-          "district": "Miraflores",
-          "address": "Calle Berlín 456"
-        },
-        "additionalNotes": "Solicita cotización con validez 15 días.",
-        "contactClients": [
-          {
-            "id": 102,
-            "firstName": "Diego",
-            "lastName": "Ramos",
-            "jobTitle": "Administrador",
-            "department": "Administración",
-            "email": "diego.ramos@pacifico.com.pe",
-            "phoneNumber": "912345678"
-          }
-        ]
+      "additionalNotes": "Prefiere facturación electrónica.\nAtención de lunes a viernes.",
+      "contactClients": [
+        {
+          "id": 101,
+          "firstName": "María",
+          "lastName": "Quispe",
+          "jobTitle": "Jefa de Compras",
+          "department": "Abastecimiento",
+          "email": "maria.quispe@andinassac.pe",
+          "phoneNumber": "987654321"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "companyName": "Soluciones Pacífico EIRL",
+      "ruc": "20123456782",
+      "clientType": "SECONDARY",
+      "location": {
+        "department": "Lima",
+        "province": "Lima",
+        "district": "Miraflores",
+        "address": "Calle Berlín 456"
       },
-      {
-        "id": 3,
-        "companyName": "Comercial Norte S.R.L.",
-        "ruc": "20123456783",
-        "clientType": "OCCASIONAL",
-        "location": {
-          "department": "La Libertad",
-          "province": "Trujillo",
-          "district": "Víctor Larco Herrera",
-          "address": "Av. Larco 890"
-        },
-        "additionalNotes": "Compra por campañas.\nContactar antes de fin de mes.",
-        "contactClients": [
-          {
-            "id": 103,
-            "firstName": "Paola",
-            "lastName": "Castro",
-            "jobTitle": "Coordinadora Comercial",
-            "department": "Ventas",
-            "email": "paola.castro@comercialnorte.pe",
-            "phoneNumber": "956789012"
-          }
-        ]
+      "additionalNotes": "Solicita cotización con validez 15 días.",
+      "contactClients": [
+        {
+          "id": 102,
+          "firstName": "Diego",
+          "lastName": "Ramos",
+          "jobTitle": "Administrador",
+          "department": "Administración",
+          "email": "diego.ramos@pacifico.com.pe",
+          "phoneNumber": "912345678"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "companyName": "Comercial Norte S.R.L.",
+      "ruc": "20123456783",
+      "clientType": "OCCASIONAL",
+      "location": {
+        "department": "La Libertad",
+        "province": "Trujillo",
+        "district": "Víctor Larco Herrera",
+        "address": "Av. Larco 890"
       },
-      {
-        "id": 4,
-        "companyName": "Municipalidad Distrital de Surco",
-        "ruc": "20123456784",
-        "clientType": "PRINCIPAL",
-        "location": {
-          "department": "Lima",
-          "province": "Lima",
-          "district": "Santiago de Surco",
-          "address": "Jr. Los Héroes 250"
-        },
-        "additionalNotes": "Requiere orden de servicio y conformidad.",
-        "contactClients": [
-          {
-            "id": 104,
-            "firstName": "Renato",
-            "lastName": "Salazar",
-            "jobTitle": "Especialista Logístico",
-            "department": "Logística",
-            "email": "renato.salazar@munisurco.gob.pe",
-            "phoneNumber": "999111222"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "companyName": "Universidad Tecnológica del Centro",
-        "ruc": "20123456785",
-        "clientType": "SECONDARY",
-        "location": {
-          "department": "Junín",
-          "province": "Huancayo",
-          "district": "El Tambo",
-          "address": "Av. Ferrocarril 1200"
-        },
-        "additionalNotes": "Atención por mesa de partes.\nHorario 9am-4pm.",
-        "contactClients": [
-          {
-            "id": 105,
-            "firstName": "Elena",
-            "lastName": "Paredes",
-            "jobTitle": "Asistente Administrativa",
-            "department": "Administración",
-            "email": "elena.paredes@utc.edu.pe",
-            "phoneNumber": "934567890"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "companyName": "Agroexport Perú S.A.",
-        "ruc": "20123456786",
-        "clientType": "PRINCIPAL",
-        "location": {
-          "department": "Ica",
-          "province": "Ica",
-          "district": "Subtanjalla",
-          "address": "Carretera Panamericana Sur Km 305"
-        },
-        "additionalNotes": "Entregas coordinadas con almacén.\nRequiere guía y OC.",
-        "contactClients": [
-          {
-            "id": 106,
-            "firstName": "Jorge",
-            "lastName": "Mendoza",
-            "jobTitle": "Supervisor de Almacén",
-            "department": "Operaciones",
-            "email": "jorge.mendoza@agroexport.pe",
-            "phoneNumber": "923456781"
-          }
-        ]
-      },
-      {
-        "id": 7,
-        "companyName": "Servicios Mineros Altiplano S.A.C.",
-        "ruc": "20123456787",
-        "clientType": "OCCASIONAL",
-        "location": {
-          "department": "Puno",
-          "province": "San Román",
-          "district": "Juliaca",
-          "address": "Jr. Bolognesi 778"
-        },
-        "additionalNotes": "Cotiza por proyectos.\nEnviar propuesta técnica.",
-        "contactClients": [
-          {
-            "id": 107,
-            "firstName": "Karla",
-            "lastName": "Huamán",
-            "jobTitle": "Asistente de Proyectos",
-            "department": "Proyectos",
-            "email": "karla.huaman@altiplano.com",
-            "phoneNumber": "901234567"
-          }
-        ]
-      },
-      {
-        "id": 8,
-        "companyName": "Retail Costamar S.A.",
-        "ruc": "20123456788",
-        "clientType": "SECONDARY",
-        "location": {
-          "department": "Piura",
-          "province": "Piura",
-          "district": "Castilla",
-          "address": "Av. Grau 345"
-        },
-        "additionalNotes": "Requiere despacho con cita previa.",
-        "contactClients": [
-          {
-            "id": 108,
-            "firstName": "Luis",
-            "lastName": "Cáceres",
-            "jobTitle": "Analista de Compras",
-            "department": "Compras",
-            "email": "luis.caceres@costamar.pe",
-            "phoneNumber": "978123456"
-          }
-        ]
-      },
-      {
-        "id": 9,
-        "companyName": "Clínica Santa Elena S.A.C.",
-        "ruc": "20123456789",
-        "clientType": "PRINCIPAL",
-        "location": {
-          "department": "Arequipa",
-          "province": "Arequipa",
-          "district": "Yanahuara",
-          "address": "Av. Ejército 510"
-        },
-        "additionalNotes": "Prioridad alta.\nAtención a emergencias.",
-        "contactClients": [
-          {
-            "id": 109,
-            "firstName": "Rosa",
-            "lastName": "López",
-            "jobTitle": "Coordinadora de Servicios",
-            "department": "Servicios",
-            "email": "rosa.lopez@clinicasantaelena.pe",
-            "phoneNumber": "965432109"
-          }
-        ]
-      },
-      {
-        "id": 10,
-        "companyName": "Distribuidora Valle Verde EIRL",
-        "ruc": "20123456790",
-        "clientType": "OCCASIONAL",
-        "location": {
-          "department": "Cusco",
-          "province": "Cusco",
-          "district": "Santiago",
-          "address": "Av. La Cultura 1500"
-        },
-        "additionalNotes": "Compras esporádicas.\nConfirmar stock antes de emitir factura.",
-        "contactClients": [
-          {
-            "id": 110,
-            "firstName": "Andrés",
-            "lastName": "Vargas",
-            "jobTitle": "Propietario",
-            "department": "Gerencia",
-            "email": "andres.vargas@valleverde.pe",
-            "phoneNumber": "987120345"
-          }
-        ]
-      }
-    ]
-
-
-  ]
-}
+      "additionalNotes": "Compra por campañas.\nContactar antes de fin de mes.",
+      "contactClients": [
+        {
+          "id": 103,
+          "firstName": "Paola",
+          "lastName": "Castro",
+          "jobTitle": "Coordinadora Comercial",
+          "department": "Ventas",
+          "email": "paola.castro@comercialnorte.pe",
+          "phoneNumber": "956789012"
+        }
+      ]
+    },
+    {
+      "id": 4,

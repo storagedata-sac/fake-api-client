@@ -10,7 +10,7 @@
       "district": "San Isidro",
       "address": "Av. Javier Prado Este 1234",
       "additionalNotes": "Prefiere facturación electrónica.\nAtención de lunes a viernes.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "María",
           "lastName": "Quispe",
@@ -31,7 +31,7 @@
       "district": "Miraflores",
       "address": "Calle Berlín 456",
       "additionalNotes": "Solicita cotización con validez 15 días.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Diego",
           "lastName": "Ramos",
@@ -52,7 +52,7 @@
       "district": "Víctor Larco Herrera",
       "address": "Av. Larco 890",
       "additionalNotes": "Compra por campañas.\nContactar antes de fin de mes.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Paola",
           "lastName": "Castro",
@@ -73,7 +73,7 @@
       "district": "Santiago de Surco",
       "address": "Jr. Los Héroes 250",
       "additionalNotes": "Requiere orden de servicio y conformidad.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Renato",
           "lastName": "Salazar",
@@ -94,7 +94,7 @@
       "district": "El Tambo",
       "address": "Av. Ferrocarril 1200",
       "additionalNotes": "Atención por mesa de partes.\nHorario 9am-4pm.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Elena",
           "lastName": "Paredes",
@@ -115,7 +115,7 @@
       "district": "Subtanjalla",
       "address": "Carretera Panamericana Sur Km 305",
       "additionalNotes": "Entregas coordinadas con almacén.\nRequiere guía y OC.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Jorge",
           "lastName": "Mendoza",
@@ -136,7 +136,7 @@
       "district": "Juliaca",
       "address": "Jr. Bolognesi 778",
       "additionalNotes": "Cotiza por proyectos.\nEnviar propuesta técnica.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Karla",
           "lastName": "Huamán",
@@ -157,7 +157,7 @@
       "district": "Castilla",
       "address": "Av. Grau 345",
       "additionalNotes": "Requiere despacho con cita previa.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Luis",
           "lastName": "Cáceres",
@@ -178,7 +178,7 @@
       "district": "Yanahuara",
       "address": "Av. Ejército 510",
       "additionalNotes": "Prioridad alta.\nAtención a emergencias.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Rosa",
           "lastName": "López",
@@ -199,7 +199,7 @@
       "district": "Santiago",
       "address": "Av. La Cultura 1500",
       "additionalNotes": "Compras esporádicas.\nConfirmar stock antes de emitir factura.",
-      "contactClients": [
+      "contacts": [
         {
           "firstName": "Andrés",
           "lastName": "Vargas",

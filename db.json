@@ -3,7 +3,7 @@
     {
       "id": 1,
       "companyName": "Inversiones Andinas S.A.C.",
-      "ruc": "20123456781",
+      "rucNumber": "20123456781",
       "clientType": "PRIVATE_COMPANY",
       "department": "Lima",
       "province": "Lima",
@@ -24,7 +24,7 @@
     {
       "id": 2,
       "companyName": "Soluciones Pacífico EIRL",
-      "ruc": "20123456782",
+      "rucNumber": "20123456782",
       "clientType": "PRIVATE_COMPANY",
       "department": "Lima",
       "province": "Lima",
@@ -45,7 +45,7 @@
     {
       "id": 3,
       "companyName": "Comercial Norte S.R.L.",
-      "ruc": "20123456783",
+      "rucNumber": "20123456783",
       "clientType": "PRIVATE_COMPANY",
       "department": "La Libertad",
       "province": "Trujillo",
@@ -66,7 +66,7 @@
     {
       "id": 4,
       "companyName": "Municipalidad Distrital de Surco",
-      "ruc": "20123456784",
+      "rucNumber": "20123456784",
       "clientType": "GOVERNMENT",
       "department": "Lima",
       "province": "Lima",
@@ -87,7 +87,7 @@
     {
       "id": 5,
       "companyName": "Universidad Tecnológica del Centro",
-      "ruc": "20123456785",
+      "rucNumber": "20123456785",
       "clientType": "EDUCATIONAL_INSTITUTION",
       "department": "Junín",
       "province": "Huancayo",
@@ -108,7 +108,7 @@
     {
       "id": 6,
       "companyName": "Agroexport Perú S.A.",
-      "ruc": "20123456786",
+      "rucNumber": "20123456786",
       "clientType": "PRIVATE_COMPANY",
       "department": "Ica",
       "province": "Ica",
@@ -129,7 +129,7 @@
     {
       "id": 7,
       "companyName": "Servicios Mineros Altiplano S.A.C.",
-      "ruc": "20123456787",
+      "rucNumber": "20123456787",
       "clientType": "PRIVATE_COMPANY",
       "department": "Puno",
       "province": "San Román",
@@ -150,7 +150,7 @@
     {
       "id": 8,
       "companyName": "Retail Costamar S.A.",
-      "ruc": "20123456788",
+      "rucNumber": "20123456788",
       "clientType": "PRIVATE_COMPANY",
       "department": "Piura",
       "province": "Piura",
@@ -171,7 +171,7 @@
     {
       "id": 9,
       "companyName": "Clínica Santa Elena S.A.C.",
-      "ruc": "20123456789",
+      "rucNumber": "20123456789",
       "clientType": "PRIVATE_COMPANY",
       "department": "Arequipa",
       "province": "Arequipa",
@@ -192,7 +192,7 @@
     {
       "id": 10,
       "companyName": "Distribuidora Valle Verde EIRL",
-      "ruc": "20123456790",
+      "rucNumber": "20123456790",
       "clientType": "PRIVATE_COMPANY",
       "department": "Cusco",
       "province": "Cusco",
